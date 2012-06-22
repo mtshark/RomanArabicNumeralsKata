@@ -1,7 +1,0 @@
-C:\Users\dubachm\Desktop\Katas\RomanArabicNumeralsKata\RomanArabicNumeralsKata\bin\Debug\RomanArabicNumeralsKata.exe
-C:\Users\dubachm\Desktop\Katas\RomanArabicNumeralsKata\RomanArabicNumeralsKata\bin\Debug\RomanArabicNumeralsKata.pdb
-C:\Users\dubachm\Desktop\Katas\RomanArabicNumeralsKata\RomanArabicNumeralsKata\obj\x86\Debug\ResolveAssemblyReference.cache
-C:\Users\dubachm\Desktop\Katas\RomanArabicNumeralsKata\RomanArabicNumeralsKata\obj\x86\Debug\RomanArabicNumeralsKata.exe
-C:\Users\dubachm\Desktop\Katas\RomanArabicNumeralsKata\RomanArabicNumeralsKata\obj\x86\Debug\RomanArabicNumeralsKata.pdb
-C:\Users\Marc\RomanArabicNumeralsKata\RomanArabicNumeralsKata\obj\x86\Debug\RomanArabicNumeralsKata.exe
-C:\Users\Marc\RomanArabicNumeralsKata\RomanArabicNumeralsKata\obj\x86\Debug\RomanArabicNumeralsKata.pdb

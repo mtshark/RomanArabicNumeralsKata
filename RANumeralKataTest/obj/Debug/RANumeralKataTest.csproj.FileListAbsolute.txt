@@ -1,9 +1,0 @@
-C:\Users\dubachm\Desktop\Katas\RomanArabicNumeralsKata\RANumeralKataTest\bin\Debug\RANumeralKataTest.dll
-C:\Users\dubachm\Desktop\Katas\RomanArabicNumeralsKata\RANumeralKataTest\bin\Debug\RANumeralKataTest.pdb
-C:\Users\dubachm\Desktop\Katas\RomanArabicNumeralsKata\RANumeralKataTest\bin\Debug\RomanArabicNumeralsKata.exe
-C:\Users\dubachm\Desktop\Katas\RomanArabicNumeralsKata\RANumeralKataTest\bin\Debug\RomanArabicNumeralsKata.pdb
-C:\Users\dubachm\Desktop\Katas\RomanArabicNumeralsKata\RANumeralKataTest\bin\Debug\RomanArabicNumeralsKata_Accessor.exe
-C:\Users\dubachm\Desktop\Katas\RomanArabicNumeralsKata\RANumeralKataTest\bin\Debug\RomanArabicNumeralsKata_Accessor.pdb
-C:\Users\dubachm\Desktop\Katas\RomanArabicNumeralsKata\RANumeralKataTest\obj\Debug\ResolveAssemblyReference.cache
-C:\Users\dubachm\Desktop\Katas\RomanArabicNumeralsKata\RANumeralKataTest\obj\Debug\RANumeralKataTest.dll
-C:\Users\dubachm\Desktop\Katas\RomanArabicNumeralsKata\RANumeralKataTest\obj\Debug\RANumeralKataTest.pdb
